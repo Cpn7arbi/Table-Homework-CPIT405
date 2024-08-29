@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tables</title>
+</head>
+<body>
+<h1>My University Schedule</h1>
+<table border="1">
+<caption>Abdulrahman Saud Alharbi's Schedule</caption>
+<thead>
+
+<tr>
+    <th colspan ="5"> <strong>King Abdulaziz University</strong><br> </th>
+
+
+</tr>
+
+
+
+
+<tr>
+    <th>Sunday</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+
+
+   
+</tr>
+</thead>
+<tbody>
+<tr>
+    <th rowspan ="2"> <strong>CPIT 475</strong><br>
+        09:00 - 09:50 </th>
+    
+    <th rowspan ="2"> <strong>CPIT 405</strong><br>
+            09:30 - 10:50 </th>
+
+    <th rowspan ="2"> <strong>CPIT 475</strong><br>
+        09:00 - 09:50 </th>
+
+    <th rowspan ="2"> <strong>CPIT 405</strong><br>
+            09:30 - 10:50 </th>
+
+
+    <th rowspan ="2"> <strong>CPIT 475</strong><br>
+                09:00 - 09:50 </th></tr>
+<tr>
+   
+</tr>
+
+<tr>
+    <th rowspan ="2"> <strong>CPIT 435</strong><br>
+        13:00 - 13:50 </th>
+    
+    <th rowspan ="2"> <strong>CPIT 490</strong><br>
+            11:00 - 11:20 </th>
+
+    <th rowspan ="2"> <strong>CPIT 435</strong><br>
+                13:00 - 13:50 </th>
+
+     <th rowspan ="2"> <strong>CPIT 490</strong><br>
+                    11:00 - 11:20 </th>
+
+
+    <th rowspan ="2"> <strong>CPIT 435</strong><br>
+                13:00 - 13:50 </th>
+</tr>
+
+<tr>
+   
+</tr>
+
+<tr>
+    <th rowspan ="2"> <strong>CPIT 405</strong><br>
+                19:00 - 20:20 </th>
+    
+    <th rowspan ="2"> <strong>CPIT 470</strong><br>
+                 16:00 - 17:20 </th>
+
+    <th rowspan ="2"> <strong>CPIT 405</strong><br>
+                19:00 - 20:20 </th>
+
+    <th rowspan ="2"> <strong>CPIT 470</strong><br>
+                16:00 - 17:20 </th>
+
+     <th rowspan ="2"> <strong>CPIT 405</strong><br>
+                    19:00 - 20:20 </th>
+</tr>
+
+
+</tbody>
+</table>
+</body>
+</html>
